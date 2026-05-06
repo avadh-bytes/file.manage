@@ -160,7 +160,6 @@
     "app.ready.subtitle": "Your account is ready. You can now explore the app and use all its features.",
     "login.hint.phone": "Enter your phone number",
     "login.hint.email": "Enter your email",
-    "test":"test"
   },
   "fr": {
     "common.cancel": "Annuler",
