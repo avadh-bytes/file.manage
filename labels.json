@@ -159,7 +159,8 @@
     "app.ready.subtitle": "Your account is ready. You can now explore the app and use all its features.",
     "login.hint.phone": "Enter your phone number",
     "login.hint.email": "Enter your email",
-    "common.of": "of"
+    "common.of": "of",
+    "common.continue_to_the_app": "Continue to the App"
   },
   "fr": {
     "common.cancel": "Annuler",
@@ -321,6 +322,7 @@
     "app.ready.subtitle": "Votre compte est prêt. Vous pouvez maintenant explorer l’application et utiliser toutes ses fonctionnalités.",
     "login.hint.phone": "Entrez votre numéro de téléphone",
     "login.hint.email": "Entrez votre adresse e-mail",
-    "common.of": "sur"
+    "common.of": "sur",
+    "common.continue_to_the_app": "Continuer à l'application"
   }
 }
