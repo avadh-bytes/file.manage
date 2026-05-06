@@ -103,7 +103,7 @@
     "account.lookup.username": "Username",
     "account.lookup.action": "Find Account",
     "account.lookup.success.title": "Account found",
-    "account.lookup.success.subtitle": "We’ve found your account",
+    "account.lookup.success.subtitle": "We’ve found your account {account}. Let’s get you back in.",
     "account.lookup.success.cta": "Let’s get you back in.",
     "account.lookup.error.title": "Account not found",
     "account.lookup.error.subtitle": "We couldn’t find an account with that username. Please try again.",
@@ -160,6 +160,7 @@
     "app.ready.subtitle": "Your account is ready. You can now explore the app and use all its features.",
     "login.hint.phone": "Enter your phone number",
     "login.hint.email": "Enter your email",
+    "common.of": "of"
   },
   "fr": {
     "common.cancel": "Annuler",
@@ -321,6 +322,7 @@
     "app.ready.title": "Tout est prêt",
     "app.ready.subtitle": "Votre compte est prêt. Vous pouvez maintenant explorer l’application et utiliser toutes ses fonctionnalités.",
     "login.hint.phone": "Entrez votre numéro de téléphone",
-    "login.hint.email": "Entrez votre adresse e-mail"
+    "login.hint.email": "Entrez votre adresse e-mail",
+    "common.of": "sur"
   }
 }
