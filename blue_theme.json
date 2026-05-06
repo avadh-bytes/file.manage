@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "primary": "#007AFF",
+    "primaryDark": "#0056CC",
+    "accent": "#339CFF",
+    "background": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "textPrimary": "#1C1C1E",
+    "textSecondary": "#636366",
+    "textGray": "#424245",
+    "placeholder": "#C7D7F5",
+    "border": "#D6E4FF",
+    "success": "#34C759",
+    "error": "#FF3B30",
+    "warning": "#FFA000",
+    "grayDark": "#1C1C1E",
+    "grayMedium": "#636366",
+    "orangePrimary": "#007AFF",
+    "orangeDark": "#0056CC",
+    "orangeGradientStartLight": "#66B2FF",
+    "peachMedium": "#E6F0FF",
+    "peachLight": "#F2F7FF"
+  }
+}
