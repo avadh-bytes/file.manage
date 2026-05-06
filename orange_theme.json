@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "primary": "#FD782A",
+    "primaryDark": "#DF6129",
+    "accent": "#FF7A2F",
+    "background": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "textPrimary": "#1C1C1E",
+    "textSecondary": "#636366",
+    "textGray": "#424245",
+    "placeholder": "#CCCDD7",
+    "border": "#E5E5EA",
+    "success": "#34C759",
+    "error": "#FF3B30",
+    "warning": "#FFA000",
+    "grayDark": "#1C1C1E",
+    "grayMedium": "#636366"
+  }
+}
